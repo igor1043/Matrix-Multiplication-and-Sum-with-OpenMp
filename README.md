@@ -1,11 +1,11 @@
-# JogoDaVelha
-Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
+# Matrix-Multiplication-and-Sum-with-OpenMp
+Multiplicador de matriz e somador feito em C com OpenMP
 
 
-JavaScript/ CSS /  bootstrap / jquery
+C  
 ## Sobre este repositório
 
-Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+Multiplicador de matriz e somador feito em C com OpenMP
 
 ## Autor
 
