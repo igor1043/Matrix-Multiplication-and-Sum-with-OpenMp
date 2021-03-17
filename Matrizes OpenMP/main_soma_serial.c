@@ -11,6 +11,13 @@
 int main( int argc, char** argv )
 {
     int lin1, col1, lin2, col2;
+	/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
+	
+	
 	double time1, time2;
 	
 	time1 = omp_get_wtime();
