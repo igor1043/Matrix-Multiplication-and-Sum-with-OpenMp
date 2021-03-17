@@ -1,3 +1,8 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #ifndef MATRIZ2D_H
 #define	MATRIZ2D_H
 
